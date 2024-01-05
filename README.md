@@ -1,10 +1,8 @@
-<!--
-[![Issues](https://img.shields.io/github/issues/webis-de/ecir24-precision-argument-retrieval?style=flat-square)](https://github.com/webis-de/ecir24-precision-argument-retrieval/issues)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/webis-de/ecir24-precision-argument-retrieval?style=flat-square)](https://github.com/webis-de/ecir24-precision-argument-retrieval/commits)
-[![License](https://img.shields.io/github/license/webis-de/ecir24-precision-argument-retrieval?style=flat-square)](LICENSE)
--->
+[![Issues](https://img.shields.io/github/issues/webis-de/precision-argument-retrieval?style=flat-square)](https://github.com/webis-de/precision-argument-retrieval/issues)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/webis-de/precision-argument-retrieval?style=flat-square)](https://github.com/webis-de/precision-argument-retrieval/commits)
+[![License](https://img.shields.io/github/license/webis-de/precision-argument-retrieval?style=flat-square)](LICENSE)
 
-# 🆚 ecir24-precision-argument-retrieval
+# 🆚 precision-argument-retrieval
 
 Code and data for the paper "DeepCT-enhanced Lexical Argument Retrieval".
 
