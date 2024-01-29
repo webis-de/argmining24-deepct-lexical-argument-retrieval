@@ -1,5 +1,5 @@
 [project]
-name = "ecir24-precision-argument-retrieval"
+name = "deepct-lexical-argument-retrieval"
 description = "DeepCT-enhanced Lexical Argument Retrieval"
 readme = "README.md"
 requires-python = ">=3.9"
