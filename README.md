@@ -112,6 +112,30 @@ python3 run_deepct.py \
     --output_dir=<OUTPUT-DIRECTORY>
 ```
 
+## Download Touché runs
+
+These commands will download the runs from the
+[Touché 2020 task 1](https://touche.webis.de/clef20/touche20-web/argument-retrieval-for-controversial-questions).
+
+```shell
+wget -c https://zenodo.org/records/6873564/files/touche2020-task1-runs-args-me-corpus-version-2020-04-01.zip
+unzip touche2020-task1-runs-args-me-corpus-version-2020-04-01.zip
+rm touche2020-task1-runs-args-me-corpus-version-2020-04-01.zip
+mkdir -p data/runs_touche/
+mv touche2020-task1-runs-args-me-corpus-version-2020-04-01/ data/runs_touche/2020/
+```
+
+These commands will download the runs from the
+[Touché 2021 task 1](https://touche.webis.de/clef21/touche21-web/argument-retrieval-for-controversial-questions).
+
+```shell
+wget -c https://zenodo.org/records/6873566/files/touche2021-task1-runs.zip
+unzip touche2021-task1-runs.zip
+rm touche2021-task1-runs.zip
+mkdir -p data/runs_touche/
+mv touche2021-task1-runs/ data/runs_touche/2021/
+```
+
 ## License
 
 The source code in this repository is licensed under the [MIT License](LICENSE).
