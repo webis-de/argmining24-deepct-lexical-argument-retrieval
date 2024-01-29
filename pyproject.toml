@@ -15,7 +15,7 @@ classifiers = [
 ]
 dependencies = [
     "click~=8.1",
-    "git+https://github.com/terrierteam/pyterrier_deepct.git",
+    "pyterrier-deepct @ git+https://github.com/terrierteam/pyterrier_deepct.git@73662a30d840a0d47894f9bf9237dc3a70ff9d4e",
     "ijson~=3.2",
     "importlib-metadata~=6.8",
     "ir-datasets~=0.5.5",
@@ -35,5 +35,14 @@ dynamic = ["version"]
 [build-system]
 requires = ["setuptools>=50", "setuptools_scm[toml]>=6.2", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+exclude = ["data", "notebooks"]
+
+[tool.setuptools.package-data]
+mypkg = ["*.txt", "*.md", "*.rst"]
 
 [tool.setuptools_scm]
