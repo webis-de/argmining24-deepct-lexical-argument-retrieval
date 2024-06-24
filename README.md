@@ -1,8 +1,8 @@
-[![Issues](https://img.shields.io/github/issues/webis-de/deepct-lexical-argument-retrieval?style=flat-square)](https://github.com/webis-de/deepct-lexical-argument-retrieval/issues)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/webis-de/deepct-lexical-argument-retrieval?style=flat-square)](https://github.com/webis-de/deepct-lexical-argument-retrieval/commits)
-[![License](https://img.shields.io/github/license/webis-de/deepct-lexical-argument-retrieval?style=flat-square)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/webis-de/argmining24-deepct-lexical-argument-retrieval?style=flat-square)](https://github.com/webis-de/argmining24-deepct-lexical-argument-retrieval/issues)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/webis-de/argmining24-deepct-lexical-argument-retrieval?style=flat-square)](https://github.com/webis-de/argmining24-deepct-lexical-argument-retrieval/commits)
+[![License](https://img.shields.io/github/license/webis-de/argmining24-deepct-lexical-argument-retrieval?style=flat-square)](LICENSE)
 
-# 🆚 deepct-lexical-argument-retrieval
+# 🆚 argmining24-deepct-lexical-argument-retrieval
 
 Code and data for the paper "DeepCT-enhanced Lexical Argument Retrieval".
 
