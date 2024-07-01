@@ -17,7 +17,7 @@ dependencies = [
     "click~=8.1",
     "pyterrier-deepct @ git+https://github.com/terrierteam/pyterrier_deepct.git@73662a30d840a0d47894f9bf9237dc3a70ff9d4e",
     "ijson~=3.2",
-    "importlib-metadata~=7.0",
+    "importlib-metadata~=8.0",
     "ir-datasets~=0.5.5",
     "ir-measures~=0.3.3",
     "jupyter~=1.0",
