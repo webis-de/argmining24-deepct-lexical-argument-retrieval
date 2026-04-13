@@ -30,7 +30,7 @@ dependencies = [
     "spacy~=3.7",
     "tensorflow~=2.14",
     "tira~=0.0.103",
-    "tqdm~=4.66",
+    "tqdm~=4.67",
 ]
 dynamic = ["version"]
 
